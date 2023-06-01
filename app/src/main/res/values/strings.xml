@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GithubProfiles</string>
+    <string name="github_profiles">GitHub Profiles</string>
+    <string name="arrow_back">Arrow back</string>
+    <string name="user_id_label">Id do usuário</string>
+    <string name="github_link_label">Link para Github</string>
+    <string name="repo_id_label">ID</string>
+    <string name="repo_name_label">Name</string>
+    <string name="repo_full_name_label">Full Name</string>
+    <string name="repo_privacity_label">Private</string>
+    <string name="repositories_label">Repositórios</string>
+    <string name="avatar_description">Avatar</string>
+    <string name="empty_content_title">Humm.. Nada por aqui.</string>
+    <string name="empty_content_description">Atualmente esse conteúdo aqui esta vazio! \nVocê pode voltar mais tarde ou tentar recarregar.</string>
+    <string name="reload">Recarregar</string>
+    <string name="error_content_title">Opss.. Não conseguimos carregar [%s]</string>
+    <string name="unknown_error_description">Erro desconhecido</string>
+    <string name="retry">tentar novamente</string>
+    <string name="loading_content_title">Carregando...</string>
+    <string name="loading_content_description">Por favor aguarde, estamos consultando as informações!</string>
+    <string name="context_user_details">Detalhes do Usuário</string>
+    <string name="context_user_repos">Repositórios do usuário</string>
+    <string name="context_user_list">Lista de Usuários</string>
+    <string name="input_search_left_icon_description">Account Icon on left side</string>
+    <string name="input_search_right_icon_description">Search IconButton in the right side</string>
+    <string name="user_name_placeholder">NOME DO USUARIO</string>
+    <string name="user_id">ID</string>
+    <string name="user_login">Login</string>
+    <string name="user_profile">Profile Link</string>
+    <string name="github_profiles_title">GitHub Profiles</string>
+
+</resources>
