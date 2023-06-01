@@ -9,6 +9,26 @@ Confira algumas informações sobre os usuários do Github bem como a lista de s
 * COIL: Biblioteca de carregamento de imagens assíncrona para Android.
 * Hilt: Biblioteca de injeção de dependência para Android.
 
+## Fetures do APP
+
+### Lista de usuários.
+#### _Confira uma lista de usuarios do github_
+![Confira uma lista de usuarios do github](./images/user_list.PNG)
+
+
+
+ ### Lista de usuários (filtrada).
+ #### _Filtre de acordo com a sua preferencia_
+![Filtre de acordo com a sua preferencia](./images/user_list_filtered.PNG)
+
+
+
+### Tela de detalhes do usuário.
+#### _Ao clicar sobre um usuario você verá alguns detalhes_
+![Ao clicar sobre um usuario você verá alguns detalhes](./images/user_info.png)
+
+
+
 ## Recursos Principais
 1. Consulta de repositórios do GitHub: Obtenha informações sobre repositórios de usuários.
 2. Obtem detalhes sobre o usuario selecionado
